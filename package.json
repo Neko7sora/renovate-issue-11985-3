@@ -12,5 +12,5 @@
   "dependencies": {
     "imagemin": "^8.0.1"
   },
-  "packageManager": "yarn@3.0.2"
+  "packageManager": "yarn@3.2.0"
 }
